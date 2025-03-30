@@ -27,7 +27,14 @@ HealthGuardian is a project designed to assist individuals suffering from dement
 - **App:** React Native
 - **Hardware:** Raspberry Pi, Servo Motor, Camera, Four Geared Motors and Motor Driver
 
----
+## Images
+App Images
+
+![1743304008375](https://github.com/user-attachments/assets/7637b93d-0075-4038-b82a-247d1981c38e)
+
+Bot Images
+
+![1743304008368](https://github.com/user-attachments/assets/bcd4e7da-d7ae-470f-9985-4b1e9bc09873)
 
 ## Setup Guide
 
