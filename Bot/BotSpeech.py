@@ -12,7 +12,7 @@ import speech_recognition as sr
 
 
 # Configure Gemini API
-GEMINI_API_KEY = 'AIzaSyBlY0OfKhD95wXki-38HXBcGoTejlxaomE'
+GEMINI_API_KEY = ''
 if not GEMINI_API_KEY:
     print("WARNING: Gemini API key not set. Using mock responses.")
 
